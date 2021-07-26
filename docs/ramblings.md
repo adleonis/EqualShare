@@ -84,3 +84,28 @@ Currently our government's tax system is based on grabbing money wherever it is 
 1. Fiscally conservative elected officials, who refuse to endorse higher taxes on their constituents. 
 2. Citizen not re-electing officials on the basis on their fiscal record. 
 And yet, the US has a runaway deficit, because it is much easier for politicians to tax and do, than to be thrifty and efficient with the money they are given. EqualShare is the only tax system which cuts this problem at the root, ensuring participatory democracy and the ability for citizen to determine their country's fiscal future...and therby their future. Who suffers from a runaway deficit? It's the poor. The wealthy always have exit options...who remains behind to cope with poor fiscal responsability are the most vulnerable. Equalshare main goal is to put common sense back into government, and improve government efficiency. The current EqualShare amount is based on years of grift.
+
+## The smokescreen of percentages
+So deep runs the con that most people need a 30 minute lecture on tax history to even grasp the concept of EqualShare and its value. All this stems from the use of percentual tax rates, rather than actual dollars and cents. The most common response you are likely to get when explaining the problems with the current tax system is: "But the rich already pay less than the poor...using adjusted percentages based on income..." 
+
+
+## General Tendings in Free Market Manipulation
+Free markets always naturally evolve to facilitate transactions, and people will always tend towards limiting and restricting freedoms on markets in order to increase their personal circumstances. Every attempts to regulate or limit the natural workings of free markets is driven not by the "stated intentions" of person or group attempting to change the market, but by a personal strive for more power, influence, security, or wealth. The advantages gained by regulating/restricting/over-seeing/manipulating free markets should always be weighed against their potential downsides. Since the importance of competition in free markets is generally not understood by the general public, just as control theory and stochastic control is not taught to or understood by many people, it's always much harder to predict the outcome of free market manipulation than it is to taut the benefits of any proposed benefits.
+Perhaps a framework can be proposed to lay out the probabilistic outcomes of proposed policy changes in less-biased ways that the current methods. First is must be recognized that the people who propose changes to free markets **ALWAYS** do so for personal gain, and not the **proposed** intention. In essense, we should recognise and learn to always dissasociate the **PROPOSED INTENT** of the policy change from the unstated or **REAL INTENT**. I am not saying that this is always a nefarious or machiavellian plot. It's often due to a complete mis-understanding or ignorance of how markets function. Sometimes, it's naivete. For example, someone who is arguing for higher minimum wages mandated by law could be:
+1. ignorant of the fact that it will increase the number of people who are unemployable
+2. in a personal position who's performance is evaluated by how much they can increase minumum wages (union reps, politicians...)
+3. etc...
+In short, they are focused and single-minded in their approach, in that their ONLY consideration is how much the people around them are getting paid. They disregard every other group, individual, and society at large, for which higher minimum wages are extremely hurtful.
+
+### A Framework for identifying free-market change proposals
+1. State the proposal. e.g. "Raise the minimum wage mandated by law to $15/h"
+2. State the **proposed intent** , the purpose. e.g. "A better quality of life for wage workers"
+3. Propose potential **real intents**. Perhaps "results" should be used rather than "intents" ? Should the actors be removed from the equation or are they intrinsic to the problem?
+   a. gain political power by appeasing a large % of service workers..
+   b. 
+
+** Caveat, while 1 & 2 can be proposed by the party making the proposal, items 3... should be evaluated by an unbiased third party.
+
+
+## Inflation
+Since inflation is a tax which citizen pay but have no vote on, the M2 money supply or the deficit must be voted on and controlled by the people.
